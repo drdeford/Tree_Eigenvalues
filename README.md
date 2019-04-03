@@ -1,4 +1,4 @@
-# Tree_Eigenvalues
+# Eigenvalues of Rooted Homogeneous Trees
 
 This repository contains code and figures related to the paper <a href="https://arxiv.org/abs/1903.07134"> On the Spectrum of Finite Rooted Homogeneous Trees<a/> joint with my Ph.D. advisor Dan Rockmore. The main theorems in the paper show that for trees with regular branching properties the adjacency spectrum can be realized as the roots of a recursively defined sequence of polynomials and the the associated spectral measures converge to singular distributions. 
 
