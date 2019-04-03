@@ -8,9 +8,11 @@ The original versions of these tools were developed for exploratory purposes - m
 ***
 
 #### Interact/multi_trees.sage
-This is an interact module for constructing regularly branching trees and computing their eigenvalues. The parameters are the number of branches or nodes adjacent to the root and a list representing the branching pattern. 
+This is an interact module for constructing regularly branching trees and computing their eigenvalues. The parameters are the number of branches or nodes adjacent to the root and a list representing the branching pattern. Here is an example of the interface and results: 
+![alt text](https://raw.githubusercontent.com/drdeford/Tree_Eigenvalues/master/Tree_Figures/multi_example.png "MultiTrees Interface")
 
 
-## goes_to_1.sage
+
+#### Tree_Software/goes_to_1.sage
 Numerical verification tool for **Theorem 9** Notice that when a_n = n this is just the statement that \lim_{n\rightarrow\infty} \frac{n!-(n-1)!}{\sum_{k=1}^n k!} = 1
 
