@@ -15,6 +15,7 @@ The un-normalized versions of the eigenvalue plots in **Figure 2** can be genera
 
 #### Interact/endpoints.sage
 This is an interact module for computing the endpoints of the singular distributions as described in **Theorem 6**. The two parameters are the branching pattern of the tree (*k*) and the level of the tree (*j*). That is, the endpoints correspond to the new eigenvalues that appear in *X<sup>j</sup><sub>k</sub>*. The function returns a list of the corresponding left-endpoints and the intervals have width equal to 2<sup>-(k+1)</sup>
+***
 
 
 #### Tree_Software/regular_345.sage 
@@ -25,6 +26,7 @@ This contains the constructor for the rooted fans (simplicial complexes) that ar
 
 #### Tree_Software/triangle_trees.sage 
 This contains code for computing the upper adjacency graphs for the edges in the rooted fans, as well as the associated spectral information. 
+***
 
 #### Tree_Software/truncated_trees.sage 
 This is a catchall file with the experimental code that was used to carry out this research. 
